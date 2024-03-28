@@ -260,4 +260,4 @@ Function Prototypes
 ## Authors :black_nib:
 
 * __Victor Nwaogu__ <[glovic](https://github.com/glovic)>
-* __Grace Obehi__ <[GRACE8129](https://github.com/GRACE8129)>
+* __Osimen Grace__ <[GRACE8129](https://github.com/GRACE8129)>
